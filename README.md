@@ -1,5 +1,8 @@
 # My solution to the [Advent of Code](https://adventofcode.com/) puzzles.
 
+## [2024](https://adventofcode.com/2024)
+This year I decided to solve all problems using GitHub Copilot to do 99% of the work in Python. My expectation is that it can solve all problems even the harder ones near the end. Let's see how it goes.
+
 ## [2023](https://adventofcode.com/2023)
 First year participating. Didn't feel like C++. Solved all in JavaScript. First few days were done directly in the browser console :D. Got stuck and dragged behind by *math* puzzles D: (wolfram alpha to the rescue ;P). Anw, fun stuff.
 
